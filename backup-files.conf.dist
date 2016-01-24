@@ -1,4 +1,4 @@
-
+# Note: use UNIX line endings!
 # These confs backup /var/www/site to /.backup/test/site_datetime.tar.gz, but ignore zips and gz
 
 BACKUP_FILES_NAME=site
